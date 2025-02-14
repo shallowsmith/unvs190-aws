@@ -39,7 +39,7 @@ The WBS is created using Mermaid.
 
 ```jsx
 graph TD
-    A["1. AWS Data Center - Internal Monitoring System"]
+    A["AWS Data Center - Internal Monitoring System"]
     A --> B["1.1. Requirements & Planning"]
     A --> C["1.2. Data Collection"]
     A --> D["1.3. Data Processing & Analysis"]
